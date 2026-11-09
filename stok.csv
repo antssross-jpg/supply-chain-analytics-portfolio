@@ -1,0 +1,21 @@
+product_id,produk,wilayah,stok_akhir,reorder_point,safety_stock
+P001,Pakan Starter,Jawa Barat,539,378,105
+P001,Pakan Starter,Jawa Tengah,463,378,105
+P001,Pakan Starter,Jawa Timur,573,378,105
+P001,Pakan Starter,Sumatera Utara,587,378,105
+P002,Pakan Grower,Jawa Barat,714,549,152
+P002,Pakan Grower,Jawa Tengah,542,549,152
+P002,Pakan Grower,Jawa Timur,444,549,152
+P002,Pakan Grower,Sumatera Utara,749,549,152
+P003,Pakan Finisher,Jawa Barat,87,522,145
+P003,Pakan Finisher,Jawa Tengah,670,522,145
+P003,Pakan Finisher,Jawa Timur,777,522,145
+P003,Pakan Finisher,Sumatera Utara,479,522,145
+P004,Pakan Layer,Jawa Barat,388,315,87
+P004,Pakan Layer,Jawa Tengah,400,315,87
+P004,Pakan Layer,Jawa Timur,365,315,87
+P004,Pakan Layer,Sumatera Utara,267,315,87
+P005,DOC Ayam Broiler,Jawa Barat,849,810,225
+P005,DOC Ayam Broiler,Jawa Tengah,839,810,225
+P005,DOC Ayam Broiler,Jawa Timur,1052,810,225
+P005,DOC Ayam Broiler,Sumatera Utara,1170,810,225

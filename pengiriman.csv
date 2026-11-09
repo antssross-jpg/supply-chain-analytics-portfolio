@@ -1,0 +1,61 @@
+delivery_id,supplier_id,supplier,tanggal_pesan,lead_time_hari,on_time,in_full,qty
+DLV-001,SUP-B,PT Agro Makmur Jaya,2026-09-02,13,1,1,665
+DLV-002,SUP-A,PT Sumber Pakan Nusantara,2026-09-27,6,1,1,201
+DLV-003,SUP-C,PT Ternak Sejahtera,2026-04-17,4,1,1,570
+DLV-004,SUP-C,PT Ternak Sejahtera,2026-04-09,4,1,1,762
+DLV-005,SUP-A,PT Sumber Pakan Nusantara,2026-08-04,7,0,1,229
+DLV-006,SUP-C,PT Ternak Sejahtera,2026-05-18,4,1,1,214
+DLV-007,SUP-C,PT Ternak Sejahtera,2026-08-04,4,1,1,863
+DLV-008,SUP-A,PT Sumber Pakan Nusantara,2026-05-14,7,1,1,1054
+DLV-009,SUP-B,PT Agro Makmur Jaya,2026-07-07,9,0,1,1143
+DLV-010,SUP-C,PT Ternak Sejahtera,2026-05-25,4,1,1,1008
+DLV-011,SUP-B,PT Agro Makmur Jaya,2026-05-24,8,1,1,505
+DLV-012,SUP-C,PT Ternak Sejahtera,2026-08-18,4,1,1,695
+DLV-013,SUP-B,PT Agro Makmur Jaya,2026-06-28,12,1,1,393
+DLV-014,SUP-C,PT Ternak Sejahtera,2026-01-11,5,1,1,962
+DLV-015,SUP-B,PT Agro Makmur Jaya,2026-08-02,8,1,1,329
+DLV-016,SUP-C,PT Ternak Sejahtera,2026-08-04,4,1,1,738
+DLV-017,SUP-B,PT Agro Makmur Jaya,2026-02-16,9,1,1,1000
+DLV-018,SUP-B,PT Agro Makmur Jaya,2026-06-28,9,1,1,890
+DLV-019,SUP-C,PT Ternak Sejahtera,2026-08-28,6,1,1,754
+DLV-020,SUP-A,PT Sumber Pakan Nusantara,2026-05-08,7,1,1,964
+DLV-021,SUP-A,PT Sumber Pakan Nusantara,2026-02-15,7,1,1,370
+DLV-022,SUP-C,PT Ternak Sejahtera,2026-01-10,5,1,1,567
+DLV-023,SUP-B,PT Agro Makmur Jaya,2026-03-06,8,1,1,280
+DLV-024,SUP-C,PT Ternak Sejahtera,2026-08-19,4,1,1,346
+DLV-025,SUP-A,PT Sumber Pakan Nusantara,2026-01-26,6,1,1,676
+DLV-026,SUP-B,PT Agro Makmur Jaya,2026-10-10,11,1,1,854
+DLV-027,SUP-B,PT Agro Makmur Jaya,2026-07-28,8,1,1,694
+DLV-028,SUP-A,PT Sumber Pakan Nusantara,2026-05-23,7,1,1,502
+DLV-029,SUP-A,PT Sumber Pakan Nusantara,2026-01-19,6,0,1,1085
+DLV-030,SUP-C,PT Ternak Sejahtera,2026-08-27,6,1,0,1125
+DLV-031,SUP-B,PT Agro Makmur Jaya,2026-04-20,8,1,1,456
+DLV-032,SUP-C,PT Ternak Sejahtera,2026-03-21,6,1,1,299
+DLV-033,SUP-C,PT Ternak Sejahtera,2026-01-19,5,1,1,573
+DLV-034,SUP-C,PT Ternak Sejahtera,2026-07-06,5,1,1,405
+DLV-035,SUP-A,PT Sumber Pakan Nusantara,2026-09-17,6,1,1,1135
+DLV-036,SUP-B,PT Agro Makmur Jaya,2026-06-26,11,1,1,317
+DLV-037,SUP-B,PT Agro Makmur Jaya,2026-09-12,11,0,1,292
+DLV-038,SUP-B,PT Agro Makmur Jaya,2026-05-19,11,1,1,590
+DLV-039,SUP-C,PT Ternak Sejahtera,2026-08-01,4,1,1,834
+DLV-040,SUP-C,PT Ternak Sejahtera,2026-02-21,6,1,1,1043
+DLV-041,SUP-B,PT Agro Makmur Jaya,2026-03-02,8,0,1,1168
+DLV-042,SUP-A,PT Sumber Pakan Nusantara,2026-04-18,5,1,1,338
+DLV-043,SUP-B,PT Agro Makmur Jaya,2026-10-24,13,1,1,944
+DLV-044,SUP-A,PT Sumber Pakan Nusantara,2026-10-14,6,1,1,1161
+DLV-045,SUP-B,PT Agro Makmur Jaya,2026-04-28,12,1,1,571
+DLV-046,SUP-A,PT Sumber Pakan Nusantara,2026-06-02,7,0,1,607
+DLV-047,SUP-B,PT Agro Makmur Jaya,2026-04-21,8,1,1,854
+DLV-048,SUP-C,PT Ternak Sejahtera,2026-04-05,5,0,1,1005
+DLV-049,SUP-C,PT Ternak Sejahtera,2026-04-19,6,1,1,421
+DLV-050,SUP-A,PT Sumber Pakan Nusantara,2026-01-09,7,1,1,1079
+DLV-051,SUP-A,PT Sumber Pakan Nusantara,2026-02-22,5,0,1,1087
+DLV-052,SUP-A,PT Sumber Pakan Nusantara,2026-10-11,5,1,1,216
+DLV-053,SUP-A,PT Sumber Pakan Nusantara,2026-09-04,6,1,1,963
+DLV-054,SUP-A,PT Sumber Pakan Nusantara,2026-10-04,7,1,1,662
+DLV-055,SUP-C,PT Ternak Sejahtera,2026-09-10,6,1,1,669
+DLV-056,SUP-C,PT Ternak Sejahtera,2026-07-14,5,1,1,902
+DLV-057,SUP-A,PT Sumber Pakan Nusantara,2026-02-11,5,1,1,822
+DLV-058,SUP-A,PT Sumber Pakan Nusantara,2026-10-18,7,1,1,929
+DLV-059,SUP-B,PT Agro Makmur Jaya,2026-09-20,12,1,1,640
+DLV-060,SUP-A,PT Sumber Pakan Nusantara,2026-09-24,7,1,1,1086
